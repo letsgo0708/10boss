@@ -1,0 +1,6 @@
+.idea
+myapi.db
+*.pyc
+__pychae__
+migrations
+alembic.ini
