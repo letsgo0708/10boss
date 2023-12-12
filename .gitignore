@@ -4,3 +4,4 @@ myapi.db
 __pychae__
 migrations
 alembic.ini
+.env
